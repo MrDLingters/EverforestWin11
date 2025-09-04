@@ -40,7 +40,7 @@
   "controlStyles[4].styles[0]": "Fill=#A7C080",
   "controlStyles[4].styles[1]": "Fill@ActiveNormal=#A7C080",
   "controlStyles[4].styles[2]": "Fill@ActivePointerOver=#A7C080",
-  "controlStyles[4].styles[3]": "Fill@MultiWindowActive=#67b0e8",
+  "controlStyles[4].styles[3]": "Fill@MultiWindowActive=#A7C080",
   "controlStyles[4].styles[4]": "Fill@MultiWindowPointerOver=#A7C080",
   "controlStyles[5].target": "TextBlock#TimeInnerTextBlock",
   "controlStyles[5].styles[0]": "Foreground=#A7C080",
