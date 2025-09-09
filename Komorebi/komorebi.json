@@ -5,16 +5,20 @@
   "cross_monitor_move_behaviour": "Insert",
   "transparency": false,
   "transparency_alpha": 250,
-  "default_workspace_padding": 10,
-  "default_container_padding": 10,
+  "default_workspace_padding": 20,
+  "default_container_padding": 20,
   "border": true,
   "border_width": 6,
   "border_offset": -1,
+  "mouse_follows_focus": true,
   "animation": {
     "enabled": true,
-    "duration": 200,
+    "duration": 250,
     "fps": 160,
-    "style": "EaseOutBack"
+    "style": {
+        "movement":"EaseOutBack",
+        "transparency": "Linear"
+      }
 },
   "theme": {
     "palette": "Base16",
