@@ -3,7 +3,7 @@
   "controlStyles[0].styles[0]": "Background=#272E33",
   "controlStyles[0].styles[1]": "BorderBrush=#272E33",
   "controlStyles[1].target": "Border#AcrylicOverlay",
-  "controlStyles[1].styles[0]": "Background=#141b1e",
+  "controlStyles[1].styles[0]": "Background=#272E33",
   "controlStyles[2].target": "StartDocked.SearchBoxToggleButton > Grid > Border",
   "controlStyles[2].styles[0]": "Background=#2E383C",
   "controlStyles[2].styles[1]": "BorderBrush=#A7C080",
@@ -68,5 +68,5 @@
   "controlStyles[29].target": "Border#AccentAppBorder",
   "controlStyles[29].styles[0]": "Background=#141b1e",
   "controlStyles[29].styles[1]": "BorderBrush=#468ccf7e",
-  "theme": "TranslucentStartMenu"
+  "theme": "SideBySideMinimal"
 }
