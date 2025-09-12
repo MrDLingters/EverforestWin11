@@ -3,10 +3,10 @@
   "app_specific_configuration_path": "$Env:USERPROFILE/applications.json",
   "window_hiding_behaviour": "Cloak",
   "cross_monitor_move_behaviour": "Insert",
-  "transparency": false,
+  "transparency": true,
   "transparency_alpha": 250,
-  "default_workspace_padding": 20,
-  "default_container_padding": 20,
+  "default_workspace_padding": 10,
+  "default_container_padding": 10,
   "border": true,
   "border_width": 6,
   "border_offset": -1,
@@ -64,5 +64,13 @@
 	
       ]
     }
-  ]
+  ],
+ "ignore_rules": [
+    {
+      "kind": "Exe",
+      "id": "ACShadows.exe",
+      "matching_strategy": "Equals"
+       }
+    ]
 }
+
