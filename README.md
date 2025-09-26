@@ -1,5 +1,7 @@
 # Everforest Windows 11 Theme
-![Screenshot (75)](https://github.com/user-attachments/assets/aa710c0f-9cce-4d1f-a791-5cf524390488)
-![Screenshot (73)](https://github.com/user-attachments/assets/4bb1cd95-9fbf-4fc4-adff-a8a459e2b553)
-![Screenshot (72)](https://github.com/user-attachments/assets/92de79d9-a3b7-48b7-a5ad-2823dafde81b)
-![Screenshot (71)](https://github.com/user-attachments/assets/39020214-96a9-4adc-822b-33ed1ec8d19a)
+
+<img width="3839" height="2159" alt="Screenshot 2025-09-26 235628" src="https://github.com/user-attachments/assets/078c29d3-ece1-4c7f-a66e-7ac7fc965111" />
+<img width="3839" height="2159" alt="Screenshot 2025-09-26 235717" src="https://github.com/user-attachments/assets/9be2d6a1-96aa-495a-bb20-214875c2bddc" />
+<img width="3839" height="2159" alt="Screenshot 2025-09-26 234820" src="https://github.com/user-attachments/assets/8c1b2d4e-6e84-454a-ab46-b9df4dabba1b" />
+<img width="3839" height="2159" alt="Screenshot 2025-09-26 235603" src="https://github.com/user-attachments/assets/4f8b6bce-798d-4ea8-885e-156ed4c8376e" />
+<img width="3839" height="2159" alt="Screenshot 2025-09-26 234954" src="https://github.com/user-attachments/assets/f1fbad4a-6212-4a7c-8b73-4ebb9281bff0" />
