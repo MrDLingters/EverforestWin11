@@ -41,6 +41,7 @@ bars:
         [
           "win_button",
           "apps",
+          "komorebi_active_layout",
           "komorebi_workspaces",
           "active_window"
         ]
@@ -51,6 +52,7 @@ bars:
       right:
         [
           "media",
+          "weather",
           "volume",         
           "power_menu"
         ]
@@ -228,7 +230,7 @@ widgets:
         api_key: '3bf4cf9a7c3f40d6b31174128242807' # Get your free API key from https://www.weatherapi.com/
         update_interval: 600 # Update interval in seconds, Min 600 seconds
         hide_decimal: true
-        location: 'USA Los Angeles 90006' # You can use "USA Los Angeles 90006" {COUNTRY CITY ZIP_CODE}, or just city.
+        location: 'Irkutsk' # You can use "USA Los Angeles 90006" {COUNTRY CITY ZIP_CODE}, or just city.
         callbacks:
           on_left: "toggle_label"
         icons: 
